@@ -1,0 +1,1 @@
+[{"class_name": "contrast", "bbox": "47 366 267 506", "used": true}, {"class_name": "instrument", "bbox": "81 360 245 505", "used": true}, {"class_name": "bubbles", "bbox": "369 279 489 422", "used": false}, {"class_name": "blur", "bbox": "13 13 463 232", "used": false}, {"class_name": "blur", "bbox": "336 88 505 501", "used": false}]

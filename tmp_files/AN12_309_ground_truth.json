@@ -1,0 +1,1 @@
+[{"class_name": "artifact", "bbox": "114 24 143 53", "used": true}, {"class_name": "artifact", "bbox": "4 135 19 164", "used": true}, {"class_name": "contrast", "bbox": "112 121 284 370", "used": true}, {"class_name": "saturation", "bbox": "379 412 502 507", "used": true}, {"class_name": "instrument", "bbox": "121 360 256 505", "used": true}]

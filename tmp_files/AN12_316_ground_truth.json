@@ -1,0 +1,1 @@
+[{"class_name": "specularity", "bbox": "120 27 142 59", "used": false}, {"class_name": "artifact", "bbox": "9 431 107 505", "used": false}, {"class_name": "blur", "bbox": "14 156 141 476", "used": false}, {"class_name": "blur", "bbox": "367 387 475 500", "used": false}, {"class_name": "instrument", "bbox": "117 336 261 506", "used": true}]

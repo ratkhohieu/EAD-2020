@@ -1,0 +1,12 @@
+*.DS_Store
+*.png
+*.tif
+fileFormatConverters/.DS_Store
+/data/
+/downloads/
+/EndoCV2020/
+/examples/GT/
+/examples/GT2/
+/annotationImages_and_labels/
+/mAP-IoU_testdata/
+/scripts/Documents/

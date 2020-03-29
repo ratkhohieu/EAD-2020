@@ -1,0 +1,1 @@
+[{"class_name": "artifact", "bbox": "49 10 122 137", "used": false}, {"class_name": "artifact", "bbox": "4 243 87 376", "used": true}, {"class_name": "contrast", "bbox": "93 92 251 282", "used": true}, {"class_name": "bubbles", "bbox": "177 217 212 263", "used": false}, {"class_name": "blur", "bbox": "44 45 470 472", "used": true}]

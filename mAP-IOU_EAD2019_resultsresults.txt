@@ -1,0 +1,527 @@
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 5015
+blur: 658
+bubbles: 2904
+contrast: 1532
+instrument: 437
+saturation: 1099
+specularity: 5511
+
+# Number of ground-truth objects per class
+artifact: 1041
+blood: 139
+blur: 89
+bubbles: 1322
+contrast: 237
+instrument: 156
+saturation: 230
+specularity: 2785
+
+# Number of ground-truth objects per class
+artifact: 1041
+blood: 139
+blur: 89
+bubbles: 1322
+contrast: 237
+instrument: 156
+saturation: 230
+specularity: 2785
+
+# Number of ground-truth objects per class
+artifact: 1041
+blood: 139
+blur: 89
+bubbles: 1322
+contrast: 237
+instrument: 156
+saturation: 230
+specularity: 2785
+
+# Number of ground-truth objects per class
+artifact: 1041
+blood: 139
+blur: 89
+bubbles: 1322
+contrast: 237
+instrument: 156
+saturation: 230
+specularity: 2785
+
+# Number of ground-truth objects per class
+artifact: 1041
+blood: 139
+blur: 89
+bubbles: 1322
+contrast: 237
+instrument: 156
+saturation: 230
+specularity: 2785
+
+# Number of ground-truth objects per class
+artifact: 1041
+blood: 139
+blur: 89
+bubbles: 1322
+contrast: 237
+instrument: 156
+saturation: 230
+specularity: 2785
+
+# Number of ground-truth objects per class
+artifact: 1041
+blood: 139
+blur: 89
+bubbles: 1322
+contrast: 237
+instrument: 156
+saturation: 230
+specularity: 2785
+
+# Number of ground-truth objects per class
+artifact: 1041
+blood: 139
+blur: 89
+bubbles: 1322
+contrast: 237
+instrument: 156
+saturation: 230
+specularity: 2785
+
+# Number of ground-truth objects per class
+artifact: 1041
+blood: 139
+blur: 89
+bubbles: 1322
+contrast: 237
+instrument: 156
+saturation: 230
+specularity: 2785
+
+# Number of ground-truth objects per class
+artifact: 1041
+blood: 139
+blur: 89
+bubbles: 1322
+contrast: 237
+instrument: 156
+saturation: 230
+specularity: 2785
+
+# Number of ground-truth objects per class
+artifact: 1041
+blood: 139
+blur: 89
+bubbles: 1322
+contrast: 237
+instrument: 156
+saturation: 230
+specularity: 2785
+
+# Number of ground-truth objects per class
+artifact: 1041
+blood: 139
+blur: 89
+bubbles: 1322
+contrast: 237
+instrument: 156
+saturation: 230
+specularity: 2785
+
+# Number of ground-truth objects per class
+artifact: 1041
+blood: 139
+blur: 89
+bubbles: 1322
+contrast: 237
+instrument: 156
+saturation: 230
+specularity: 2785
+
+# Number of ground-truth objects per class
+artifact: 1041
+blood: 139
+blur: 89
+bubbles: 1322
+contrast: 237
+instrument: 156
+saturation: 230
+specularity: 2785
